@@ -19,6 +19,8 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
+    self.title = @"Google Maps in iOS";
+    
     //Controls whether the My Location dot and accuracy circle is enabled.
     self.mapView.myLocationEnabled = YES;
     
