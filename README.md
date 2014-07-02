@@ -10,7 +10,7 @@ the GMSMapView as just another UIView object.
 
 To follow along step-by-step, check out the tutorial:
 
-http://vikrambahl.com/2014/07/01/xcode-storyboards-google-maps-ios/
+http://vikrambahl.com/2014/07/01/google-maps-ios-xcode-storyboards/
 
 
 
